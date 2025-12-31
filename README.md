@@ -3,8 +3,6 @@
 A modern, responsive multi-page company website built using HTML, CSS, and JavaScript.
 The project presents Ocean Tech services in a clean, professional UI with interactive elements.
 
-
-        -----
 📌 Project Overview
 
 Ocean Tech is a fictional technology company website designed to showcase:
@@ -14,10 +12,7 @@ Contact form with user interaction
 Smooth UI animations and effects
 This project was developed as part of Web Programming 1 training.
 
-       ------
-
-
-       🧩 Pages Included
+🧩 Pages Included
 
 Home Page:
 Hero section
@@ -33,18 +28,11 @@ Contact Page:
 Contact form with validation
 Simulated message sending feedback
 
-
-    --------
-
-
-
-    🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 HTML5
 CSS3 (Flexbox & Grid)
 JavaScript (Vanilla JS)
-
-
 
 ✨ Features
 
